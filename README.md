@@ -20,6 +20,8 @@
 <img width="1269" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٦ ١١ ٢١ م" src="https://github.com/user-attachments/assets/4fa73296-c6bd-463d-85dd-64c9bb0ac74a">
 
 
+# link 
+https://wokwi.com/projects/403148474498198529)
 
 <img width="1710" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٥ ٥٩ ٢١ م" src="https://github.com/user-attachments/assets/07ad4b3a-6910-48a5-af89-3afb436595bd">
 <img width="1710" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٦ ٠٠ ٤٨ م" src="https://github.com/user-attachments/assets/f82418ad-a6b9-4dba-b4b1-2cac01ac0f62">
