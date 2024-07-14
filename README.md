@@ -12,10 +12,11 @@ Here, after modifying the data in the php file, I described the name of the host
 
 <img width="1294" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٦ ٠٦ ٥٧ م" src="https://github.com/user-attachments/assets/2e89a0d3-af45-48a9-b848-1c3f2e017e6e">
 
+from here i take the username and password
 
 <img width="1276" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٦ ١٠ ٤١ م" src="https://github.com/user-attachments/assets/704f560a-d08c-4e1b-a999-252557473750">
 
-
+and from here db host name 
 <img width="1269" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٦ ١١ ٢١ م" src="https://github.com/user-attachments/assets/4fa73296-c6bd-463d-85dd-64c9bb0ac74a">
 
 
