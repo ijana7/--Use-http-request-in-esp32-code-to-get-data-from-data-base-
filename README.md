@@ -8,6 +8,7 @@ After adding the php to getdata
 
 <img width="1321" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٦ ٠٦ ٤١ م" src="https://github.com/user-attachments/assets/55a1dd81-9ace-4a09-9cb6-116d065ad69d">
 
+Here, after modifying the data in the php file, I described the name of the host I created, the password, and the username
 
 <img width="1294" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٦ ٠٦ ٥٧ م" src="https://github.com/user-attachments/assets/2e89a0d3-af45-48a9-b848-1c3f2e017e6e">
 
