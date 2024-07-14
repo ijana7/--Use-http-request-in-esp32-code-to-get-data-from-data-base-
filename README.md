@@ -4,7 +4,7 @@ After creating a hosting website using infinityfree.com
 
 <img width="1074" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٦ ٠٣ ٢٤ م" src="https://github.com/user-attachments/assets/9dbc8b12-173f-4e3f-b1d3-596e5ff41b83">
 
-After adding the php to getdata
+After adding the php file  getdata
 
 <img width="1321" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٨ في ٦ ٠٦ ٤١ م" src="https://github.com/user-attachments/assets/55a1dd81-9ace-4a09-9cb6-116d065ad69d">
 
